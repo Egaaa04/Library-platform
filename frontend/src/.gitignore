@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Vite build
+frontend/dist/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python virtual environment
+**/venv/
+**/.venv/
+**/env/
+
+# Environment variables
+.env
+.env.*
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Python virtual environment
+/backend/venv/
+
+# Backend environment variables
+/backend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python virtual environment
+/backend/venv/
+/backend/.venv/
+
+# Environment variables
+/backend/.env
